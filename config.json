@@ -42,9 +42,9 @@
     "61576599896861"
   ],
   "premium": [
-    "61585772322631",
-    "61588403646276",
-    "61576599896861"
+    "61593811714912",
+    "61593811714912",
+    "61593811714912"
   ],
   "creator": [
     "61585772322631",
@@ -79,7 +79,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "X69X BOT V3",
+  "nickNameBot": "X69X BOT 🦅👿",
   "prefix": ")",
   "database": {
     "type": "mongodb",
